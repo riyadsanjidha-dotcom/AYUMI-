@@ -18,4 +18,4 @@ async def hello(ctx):
     await ctx.send("হ্যালো! আমি AYUMI🎀, আপনার ডিসকর্ড বট। আমি এখন Render-এ ২৪/৭ অনলাইনে আছি! ✨")
 
 # বটের সিক্রেট টোকেন দিয়ে রান করা
-bot.run("MTU2OTI3NTg5OTM1Mjk3MzQxNQ.GCpm0t.8ZkDkh445CSa1fcMmzpCBWJYTuq0yarWMlvLVw")
+bot.run("MTU2OTI3NTg5OTM1Mjk3MzQxNQ.Gu1KWj.T1N1KHtW4D-UlRQultWlZkD9Oi6rfCpD2iTh-E")
